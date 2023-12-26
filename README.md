@@ -7,4 +7,3 @@ This Book Recommendation System is a basic machine learning project aimed at pro
 
 - **Size (25 MB):** [Download Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 
-## Instructions
